@@ -1,4 +1,4 @@
-
+![Logo_Calcurico]([URL_da_Imagem](https://github.com/Jorgehnr/Calcurico/blob/main/Calcurico_logo.png)
 # Calcurico
 Calcurico - A Melhor calculadora de investimento
 
